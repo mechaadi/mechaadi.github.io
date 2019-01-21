@@ -1,8 +1,9 @@
-## mechaadi
+## THIS IS ME
 
-You can use the [editor on GitHub](https://github.com/mechaadi/mechaadi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a boy who loves programming, I spend most of the time looking at my laptop. One day I was looking at the laptop and I decided to create an app. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[And then I created this](https://play.google.com/store/apps/details?id=aadi.com.firebase2)
+
 
 ### Markdown
 
