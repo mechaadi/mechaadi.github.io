@@ -4,6 +4,10 @@ I am a boy who loves programming, I spend most of the time looking at my laptop.
 
 [And then I created this](https://play.google.com/store/apps/details?id=aadi.com.firebase2)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IbqNjXoYEew
+" target="_blank"><img src="http://img.youtube.com/vi/IbqNjXoYEew/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 ### Markdown
 
